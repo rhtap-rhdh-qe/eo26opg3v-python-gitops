@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: eo26opg3v-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/eo26opg3v-python-gitops
